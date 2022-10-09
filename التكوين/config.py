@@ -85,7 +85,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 )
 # https://www.gbmb.org/mb-to-bytes
 
-STRING1 = getenv("STRING_SESSION", "AgBRXS1ceLVgI-iqyGSM4TOjRwm0KZ_IxCrsdMYOYx5FO6anWU9J2eQk0hrSWRH-rNK2tU8Noq36qOiB5au0vZFd1Hb2bohGWqta6qDEbMDBKD-5dFk7ckvuiXm8NQMcDXfWJdg3zsOvvrNUPQRP9BMtsKMvj4wBFJHE3GM-2VbU2tgcsrhUYM69uz5bZfZu1pum54_GgODrIW6K-yIjPF-cF1alr8_GP4os_pffTJKr5y34Sc_uPvxsGmYt6Nm-FoByqqY3nh2cCHdw7yR9cfz3U8iHW9MT9BK6PGgjWb9moEc9WslsTDHY62EOq8krhXEMyvrGo9tgQSvw6dFG5RBJAAAAATdg9qcA")
+STRING1 = getenv("STRING_SESSION", "AgB7PcNf0oJC_rbiAbVktWAQwqaS0OG4_lQl7a8jxRS8OW0VN69sz6xoBucgnLSFXRCNssh0AqRCCS3lP5RGsOT0o8ddIFoEUFOlCKI-EdTfCENfqoowUJq0YQxgQxVg3LzO_AACWI2Sq5DMpMieN0mjaJ4QMH4uoY73qIjkPzHv6LS2QHn_bGv8NF3cjqmdWpTzHjOGUyBpQ3WL_RWCNDLz3n09Pk3jmCed0BtG2XMpCt3_gNY4lqyglL5tIBrmyO3173Za6ZFExd7MuQutuxsxrz3s1dYWL5v4iTCTBa-IvAq0mmCVEnVmQXyLRyNK1yQL280yXAuBW0KS3duMwzIuAAAAATdg9qcA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -98,7 +98,7 @@ LOG_FILE_NAME = "anonxlogs.txt"
 adminlist = {}
 lyrical = {}
 chatstats = {}
-userstats = {}
+userstats = {}ه
 clean = {}
 
 autoclean = []
